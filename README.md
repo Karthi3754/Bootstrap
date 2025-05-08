@@ -17,11 +17,5 @@ This project is a responsive website built using **Bootstrap**. It features a mo
 - **CSS3**
 - **Bootstrap 5**
 
-## 🚀 How to Run
-
-Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Bootstrap-main.git
-```
 
 💡 Feel free to contribute, improve, or customize this project as per your needs. Happy coding! 🚀
